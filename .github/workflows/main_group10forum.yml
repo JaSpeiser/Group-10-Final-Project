@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Group10Forum'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B94A49777EA94E78AED73A2E874C73DE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ABED99C4A1124B5285091877B9544A52 }}
